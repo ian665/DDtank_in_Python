@@ -55,8 +55,10 @@ copy
 python client.py
 
 🤝 Multiplayer Gameplay
-Login to your account
-Choose multiplayer mode
-Wait for matchmaking
-Engage in real-time battles!
+Launch the client
+copy
+python client.py 
+repeat once
+copy
+python client.py
 
